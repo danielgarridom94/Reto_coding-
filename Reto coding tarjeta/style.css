@@ -1,0 +1,37 @@
+.container-one {
+  width: 80%;
+  height: 100px;
+  background-color: coral;
+  margin: 20px 10px;
+  padding: 50px;
+  overflow-x: visible;
+}
+/* sustituye al top right botton left */
+.content {
+  width: 500px;
+}
+.container-two {
+  width: 60%;
+  height: 200px;
+  background-color: yellowgreen;
+  margin: 50px 30px;
+}
+.margin-example {
+  width: 800px;
+  margin: auto;
+  height: 100;
+  background-color: cornflowerblue;
+  color: whitesmoke;
+  padding: 20px;
+}
+div {
+  border-color: gray;
+  border-width: 1px;
+  border-style: inset;
+}
+.shadow-example {
+  box-shadow: 10px 10px 5px black;
+  width: 500px;
+  margin: auto;
+  height: 100%;
+}
